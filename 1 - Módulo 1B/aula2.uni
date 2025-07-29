@@ -1,0 +1,14 @@
+Algoritmo "Tipo de dados"
+
+Var
+
+Inicio
+
+Escreval("Tipo de Caracter: Adriano")
+Escreval("Tipo de Inteiro: ", 30)
+Escreval("Tipo de Real: ", 30.5)
+Escreval("Tipo de Booleano: ", verdadeiro)
+
+Fimalgoritmo
+
+v
